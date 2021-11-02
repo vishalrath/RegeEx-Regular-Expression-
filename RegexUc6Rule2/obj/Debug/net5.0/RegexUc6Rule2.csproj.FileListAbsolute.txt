@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\RegexUc6Rule2.exe
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\RegexUc6Rule2.deps.json
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\RegexUc6Rule2.runtimeconfig.json
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\RegexUc6Rule2.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\RegexUc6Rule2.dll
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\ref\RegexUc6Rule2.dll
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\bin\Debug\net5.0\RegexUc6Rule2.pdb
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.dll
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\ref\RegexUc6Rule2.dll
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.pdb
+C:\Users\VISHAL\source\repos\RegexUc6Rule2\RegexUc6Rule2\obj\Debug\net5.0\RegexUc6Rule2.genruntimeconfig.cache

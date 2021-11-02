@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\RegexUc5Rule1.exe
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\RegexUc5Rule1.deps.json
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\RegexUc5Rule1.runtimeconfig.json
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\RegexUc5Rule1.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\RegexUc5Rule1.dll
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\ref\RegexUc5Rule1.dll
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\bin\Debug\net5.0\RegexUc5Rule1.pdb
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.dll
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\ref\RegexUc5Rule1.dll
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.pdb
+C:\Users\VISHAL\source\repos\RegexUc5Rule1\RegexUc5Rule1\obj\Debug\net5.0\RegexUc5Rule1.genruntimeconfig.cache

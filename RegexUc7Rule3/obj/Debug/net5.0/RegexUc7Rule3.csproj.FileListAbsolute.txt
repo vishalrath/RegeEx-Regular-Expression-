@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\RegexUc7Rule3.exe
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\RegexUc7Rule3.deps.json
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\RegexUc7Rule3.runtimeconfig.json
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\RegexUc7Rule3.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\RegexUc7Rule3.dll
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\ref\RegexUc7Rule3.dll
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\bin\Debug\net5.0\RegexUc7Rule3.pdb
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.dll
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\ref\RegexUc7Rule3.dll
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.pdb
+C:\Users\VISHAL\source\repos\RegexUc7Rule3\RegexUc7Rule3\obj\Debug\net5.0\RegexUc7Rule3.genruntimeconfig.cache

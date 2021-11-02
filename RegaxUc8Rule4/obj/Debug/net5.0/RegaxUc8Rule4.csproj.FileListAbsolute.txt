@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\RegaxUc8Rule4.exe
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\RegaxUc8Rule4.deps.json
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\RegaxUc8Rule4.runtimeconfig.json
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\RegaxUc8Rule4.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\RegaxUc8Rule4.dll
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\ref\RegaxUc8Rule4.dll
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\bin\Debug\net5.0\RegaxUc8Rule4.pdb
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.dll
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\ref\RegaxUc8Rule4.dll
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.pdb
+C:\Users\VISHAL\source\repos\RegaxUc8Rule4\RegaxUc8Rule4\obj\Debug\net5.0\RegaxUc8Rule4.genruntimeconfig.cache

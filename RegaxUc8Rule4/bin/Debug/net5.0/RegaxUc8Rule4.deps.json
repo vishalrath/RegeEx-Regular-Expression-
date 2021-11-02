@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RegaxUc8Rule4/1.0.0": {
+        "runtime": {
+          "RegaxUc8Rule4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegaxUc8Rule4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

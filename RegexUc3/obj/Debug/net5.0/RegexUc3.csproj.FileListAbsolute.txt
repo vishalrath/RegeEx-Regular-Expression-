@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\RegexUc3.exe
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\RegexUc3.deps.json
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\RegexUc3.runtimeconfig.json
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\RegexUc3.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\RegexUc3.dll
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\ref\RegexUc3.dll
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\bin\Debug\net5.0\RegexUc3.pdb
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.dll
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\ref\RegexUc3.dll
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.pdb
+C:\Users\VISHAL\source\repos\RegexUc3\RegexUc3\obj\Debug\net5.0\RegexUc3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\RegexUc4.exe
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\RegexUc4.deps.json
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\RegexUc4.runtimeconfig.json
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\RegexUc4.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\RegexUc4.dll
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\ref\RegexUc4.dll
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\bin\Debug\net5.0\RegexUc4.pdb
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.dll
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\ref\RegexUc4.dll
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.pdb
+C:\Users\VISHAL\source\repos\RegexUc4\RegexUc4\obj\Debug\net5.0\RegexUc4.genruntimeconfig.cache
